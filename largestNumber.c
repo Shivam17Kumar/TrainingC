@@ -1,4 +1,10 @@
-
+/*
+ 
+Author : Shivam
+Largest element among 3 integers 
+DOC : 23-05-24
+ 
+*/
 #include <stdio.h>
 
 int main() {
@@ -19,5 +25,6 @@ int main() {
 
     return 0;
 }
+
 
 
