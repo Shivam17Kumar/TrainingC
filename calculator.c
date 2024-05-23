@@ -2,7 +2,7 @@
 /*
  *
  *Author : Shivam
- *Sort an Array 
+ *Calculator Code 
  *DOC : 23-05-24
  * 
  * */
@@ -55,6 +55,7 @@ int main() {
 	int k;
 	printf("Enter 1 to continue 2 to exit : ");
 	scanf("%d\n\n", &k);
+
 
 	if(k==2) a=2; 
 	}
